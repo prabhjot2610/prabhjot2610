@@ -11,8 +11,8 @@
 - <b>DOM XSS Project</b> (https://drive.google.com/file/d/1YZD90Vk2Xp5rpsDpK5Wan0s5vKkeLIVR/view?usp=sharing)
 
 <h2>✅ Miscellaneous Projects:</h2>
-- <b>Noise Reduction In Audio Signals Using Python</b> (https://github.com/adex42/Noise-Reduction-) <br>
-- <b>Personal Assistant - Venom</b> (https://github.com/adex42/personal-assistant---venom) <br>  
+- <b>Noise Reduction In Audio Signals Using Python</b> (https://github.com/prabhjot2610/Noise-Reduction-In-Audio-Signals-Using-Python) <br>
+- <b>Personal Assistant - Venom</b> (https://github.com/prabhjot2610/Personal-Assistant-Venom) <br>  
 
 <h2>📜 Certifications:</h2>
 - <b>Google Cybersecurity Professional Certificate</b><br>
