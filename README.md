@@ -5,10 +5,10 @@
 - <b>Secure Website Authentication</b> (https://github.com/adex42/Website-Authentication-and-secure-password-storage-)
 - <b>MAC Changer</b> (https://github.com/adex42/mac-changer)
 - <b>Network Scanner</b> (https://github.com/adex42/cesar-cypher](https://github.com/adex42/network-scanner)
-- <b>Humblify VAPT Report</b>(https://drive.google.com/file/d/1rNbroscLEErcxldY1StQpbBLntKgSO19/view?usp=sharing)<br>
+- <b>Humblify VAPT Report</b>(https://drive.google.com/file/d/1EGWxYjTyen5Vg1wejsFo3KoNpwBSAHRX/view?usp=sharing)<br>
 - <b>Implementation of Cesar Cypher</b> (https://github.com/adex42/cesar-cypher)
 - <b>Implementation of Vigenere Cypher</b> (https://github.com/adex42/vigenere-cipher)
-- <b>DOM XSS Project</b> (https://github.com/adex42/vigenere-cipher)
+- <b>DOM XSS Project</b> (https://drive.google.com/file/d/1YZD90Vk2Xp5rpsDpK5Wan0s5vKkeLIVR/view?usp=sharing)
 - <b>Network Enumeration Scripts</b> (https://github.com/adex42/vigenere-cipher)
 
 
