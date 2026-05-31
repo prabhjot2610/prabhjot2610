@@ -1,15 +1,14 @@
 <h1>Hi, I'm Prabhjot! <br/>
 <h2>👨‍💻 Cyber Security Projects:</h2>
   
-- <b>Virtual Fortress - The System Hardening Automation Tool</b> (https://github.com/adex42/Virtual-Fortress/tree/main)
-- <b>Secure Website Authentication</b> (https://github.com/adex42/Website-Authentication-and-secure-password-storage-)
-- <b>MAC Changer</b> (https://github.com/adex42/mac-changer)
-- <b>Network Scanner</b> (https://github.com/adex42/cesar-cypher](https://github.com/adex42/network-scanner)
+- <b>Virtual Fortress - The System Hardening Automation Tool</b> (https://github.com/prabhjot2610/Virtual-Fortress)
+- <b>Secure Website Authentication</b> (https://github.com/prabhjot2610/Website-Authentication-and-secure-password-storage)
+- <b>MAC Changer</b> (https://github.com/prabhjot2610/Mac-Changer)
+- <b>Network Enumeration</b> (https://github.com/prabhjot2610/Network-Enumeration-Scripts)
 - <b>Humblify VAPT Report</b>(https://drive.google.com/file/d/1EGWxYjTyen5Vg1wejsFo3KoNpwBSAHRX/view?usp=sharing)<br>
-- <b>Implementation of Cesar Cypher</b> (https://github.com/adex42/cesar-cypher)
-- <b>Implementation of Vigenere Cypher</b> (https://github.com/adex42/vigenere-cipher)
+- <b>Implementation of Cesar Cypher</b> (https://github.com/prabhjot2610/Cesar-Cypher)
+- <b>Implementation of Vigenere Cypher</b> (https://github.com/prabhjot2610/Vigenere-Cipher)
 - <b>DOM XSS Project</b> (https://drive.google.com/file/d/1YZD90Vk2Xp5rpsDpK5Wan0s5vKkeLIVR/view?usp=sharing)
-- <b>Network Enumeration Scripts</b> (https://github.com/adex42/vigenere-cipher)
 
 
 <h2>🌐 Web Development Projects:</h2>
