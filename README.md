@@ -9,6 +9,8 @@
 - <b>Implementation of Cesar Cypher</b> (https://github.com/adex42/cesar-cypher)
 - <b>Password Strength Checker</b> (https://github.com/adex42/Passowrd-strength-checker)
 - <b>Implementation of Vigenere Cypher</b> (https://github.com/adex42/vigenere-cipher)
+- <b>DOM XSS Project</b> (https://github.com/adex42/vigenere-cipher)
+- <b>OSINT Project</b> (https://github.com/adex42/vigenere-cipher)
 
 
 <h2>🌐 Web Development Projects:</h2>
@@ -21,6 +23,7 @@
 
 <h2>📜 Certifications:</h2>
 - <b>Google Cybersecurity Professional Certificate</b><br>
+- <b>SEC+</b><br>
 - <b>Certified in Cybersecurity by (ISC)²</b><br>
 - <b>Cybersecurity Essetials by Cisco</b><br>
 - <b>Cybersecurity Foundations </b><br>
