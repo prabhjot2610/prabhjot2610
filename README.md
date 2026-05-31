@@ -10,11 +10,6 @@
 - <b>Implementation of Vigenere Cypher</b> (https://github.com/prabhjot2610/Vigenere-Cipher)
 - <b>DOM XSS Project</b> (https://drive.google.com/file/d/1YZD90Vk2Xp5rpsDpK5Wan0s5vKkeLIVR/view?usp=sharing)
 
-
-<h2>🌐 Web Development Projects:</h2>
-- <b>Simon Game</b> (https://github.com/adex42/Simon-Game-) <br>
-- <b>Student Portal</b> (https://adex42.github.io/Student-Portal/)
-
 <h2>✅ Miscellaneous Projects:</h2>
 - <b>Noise Reduction In Audio Signals Using Python</b> (https://github.com/adex42/Noise-Reduction-) <br>
 - <b>Personal Assistant - Venom</b> (https://github.com/adex42/personal-assistant---venom) <br>  
