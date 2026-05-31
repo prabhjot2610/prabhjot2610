@@ -7,10 +7,9 @@
 - <b>Network Scanner</b> (https://github.com/adex42/cesar-cypher](https://github.com/adex42/network-scanner)
 - <b>Humblify VAPT Report</b>(https://drive.google.com/file/d/1rNbroscLEErcxldY1StQpbBLntKgSO19/view?usp=sharing)<br>
 - <b>Implementation of Cesar Cypher</b> (https://github.com/adex42/cesar-cypher)
-- <b>Password Strength Checker</b> (https://github.com/adex42/Passowrd-strength-checker)
 - <b>Implementation of Vigenere Cypher</b> (https://github.com/adex42/vigenere-cipher)
 - <b>DOM XSS Project</b> (https://github.com/adex42/vigenere-cipher)
-- <b>OSINT Project</b> (https://github.com/adex42/vigenere-cipher)
+- <b>Network Enumeration Scripts</b> (https://github.com/adex42/vigenere-cipher)
 
 
 <h2>🌐 Web Development Projects:</h2>
@@ -23,7 +22,7 @@
 
 <h2>📜 Certifications:</h2>
 - <b>Google Cybersecurity Professional Certificate</b><br>
-- <b>SEC+</b><br>
+- <b>CompTIA Security+</b><br>
 - <b>Certified in Cybersecurity by (ISC)²</b><br>
 - <b>Cybersecurity Essetials by Cisco</b><br>
 - <b>Cybersecurity Foundations </b><br>
@@ -44,5 +43,4 @@ Essential Training</b><br>
   
 <!-- [<img align="left" alt="AditVerma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AditVerma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-linkedin: (https://www.linkedin.com/in/aditverma/)<br>
-PicoCTF: (https://play.picoctf.org/users/adex42)
+linkedin: (https://www.linkedin.com/in/prabhjot26/)<br>
